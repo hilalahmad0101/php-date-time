@@ -31,7 +31,7 @@ composer require hilalahmad/date-time
  
 ## Basic Usage
 
-Here's an example of how to use the HttpClient package to send a GET request:
+Here's an example of how to use the date and time package:
 
 ```bash
 use Hilalahmad\DateAndTime\DateAndTime;
