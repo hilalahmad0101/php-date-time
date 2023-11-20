@@ -1,0 +1,27 @@
+{
+    "name": "hilalahmad/date-time",
+    "description": "Creating a PHP package for date and time manipulation can be highly useful, especially when dealing with various date-related functionalities. Let's call this package DateTime.",
+    "version": "1.0.0",
+    "type": "library",
+    "keywords": [
+        "data-time",
+        "dateandtime",
+        "datetimeformat"
+    ],
+    "require": {
+        "php": "^7.2 | ^8.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hilalahmad\\DateAndTime\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "fullstack124",
+            "email": "stackf64@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
